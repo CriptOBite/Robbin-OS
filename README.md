@@ -14,5 +14,6 @@ Please note robbin os is a modifyed android lancher and is NOT its own os. Robbi
 
 
 
-![2cd5c8e2471347bba2c1ee336657db89 (1)](https://user-images.githubusercontent.com/73040612/122801819-9ca43f00-d292-11eb-870f-e0c6ec4b93e5.png)
+![2cd5c8e2471347bba2c1ee336657db89 (1)](https://user-images.githubusercontent.com/73040612/122802030-e2f99e00-d292-11eb-864a-8c3a4533ef88.png)
+
 
